@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# Odd Value Finder
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplikacja **Odd Value Finder** jest prostą aplikacją do wyszukiwania wartości odstającej w tablicy liczb całkowitych. Została stworzona przy użyciu frameworka **Vue.js** i narzędzia **Vite** z wykorzystaniem **Tailwind CSS** do stylizacji. 
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Opis
+
+Aplikacja umożliwia użytkownikowi wprowadzenie tablicy liczb całkowitych oddzielonych przecinkami. Po kliknięciu przycisku "Wyszukaj", aplikacja analizuje tablicę i wyświetla jedyną liczbę, która jest różna od pozostałych (czyli jedyną nieparzystą wśród parzystych lub odwrotnie). Użytkownik może również wrócić do ekranu wejściowego, aby wprowadzić nową tablicę liczb.
+
+## Funkcjonalności
+
+- **Input Screen**: Umożliwia użytkownikowi wprowadzenie liczby całkowitych oddzielonych przecinkami i wyszukiwanie wartości odstającej.
+- **Result Screen**: Wyświetla wynik oraz umożliwia powrót do ekranu wejściowego.
+
+## Technologie
+
+- **Vue.js**: Framework do budowy interaktywnych interfejsów użytkownika.
+- **Vite**: Narzędzie do szybkiego budowania aplikacji.
+- **Tailwind CSS**: Utility-first framework CSS do stylizacji aplikacji.
