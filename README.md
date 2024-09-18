@@ -16,3 +16,8 @@ Aplikacja umożliwia użytkownikowi wprowadzenie tablicy liczb całkowitych oddz
 - **Vue.js**: Framework do budowy interaktywnych interfejsów użytkownika.
 - **Vite**: Narzędzie do szybkiego budowania aplikacji.
 - **Tailwind CSS**: Utility-first framework CSS do stylizacji aplikacji.
+
+## Zrzuty ekranu
+
+<img src="src/assets/inputScreen.png" alt="Input Screen" width="800"/>
+<img src="src/assets/resultScreen.png" alt="Result Screen" width="800"/>
